@@ -1,0 +1,1 @@
+# git-qrdode-compornent
