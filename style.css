@@ -8,6 +8,54 @@ base style
     font-size: 15px;
  }
 
+ /* 
+ qrcode
+  */
+
+.qrcode {
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+.qrcode-card {
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    width: 320px;
+    padding: 16px 16px 40px 16px;
+    border-radius: 20px;
+    box-shadow: 0 25px 25px rgba(0, 0, 0, 0.0477);
+}
+img {
+    width: 100%;
+    height: auto;
+    border-radius: 20px;
+}
+.qrcode-description {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    width: 288px;
+    padding: 0 16px;
+    text-align: center;
+}
+h1 {
+    margin: 0;
+    font-size: 22px;
+    font-weight: 700;
+    color: #1F314F;
+}
+p {
+    margin: 0;
+    font-size: 15px;
+    font-weight: 400;
+    color: #68778D;
+}
+
 /* 
 footer
  */
