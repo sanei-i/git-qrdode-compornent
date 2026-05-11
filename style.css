@@ -50,12 +50,14 @@ h1 {
     font-size: 22px;
     font-weight: 700;
     color: #1F314F;
+    line-height: 1.2;
 }
 p {
     margin: 0;
     font-size: 15px;
     font-weight: 400;
     color: #68778D;
+    line-height: 1.4;
 }
 
 /* 
