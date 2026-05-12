@@ -5,6 +5,7 @@ base style
     box-sizing: border-box;
 }
  body {
+    margin: 0;
     background-color: #D5E1EF;
     font-family: "Outfit", "Helvetica Neue", Arial, "Hiragino Kaku Gothic ProN", "Hiragino Sans", "Noto Sans", Meiryo, sans-serif;
     font-size: 15px;
